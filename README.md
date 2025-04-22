@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marinaperdi
+**👋 Hi, I’m Marina Perdiguero**
 - 👀 I’m interested in cybersecurity, software development, and building systems that solve real-world problems
 - 🌱 I’m currently learning cybersecurity, data science and full-stack development
 - 💞️ I’m looking to collaborate on open-source projects related to security tools, web apps, or anything that helps people work smarter
