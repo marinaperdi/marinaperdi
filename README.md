@@ -6,6 +6,8 @@
   - [ZooWebSite](https://github.com/marinaperdi/ZooWebSite)
 - <b>Python Assignments</b>
   - [PythonAssignments](https://github.com/marinaperdi/Python)
+- <b>C Programs</b>
+  - [CPrograms](https://github.com/marinaperdi/C-Programs)
 
 <h2> 🤳 Connect with me:</h2>
 
