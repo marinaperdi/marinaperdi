@@ -4,6 +4,8 @@
 
 - <b>Zoo WebSite</b>
   - [ZooWebSite](https://github.com/marinaperdi/Zoo-WebPage)
+- <b>Python Assignments</b>
+  - [ZooWebSite](https://github.com/marinaperdi/Zoo-WebPage)
 
 <h2> 🤳 Connect with me:</h2>
 
