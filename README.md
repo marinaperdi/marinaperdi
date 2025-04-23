@@ -4,10 +4,12 @@
 
 - <b>Zoo WebSite</b>
   - [ZooWebSite](https://github.com/marinaperdi/ZooWebSite)
-- <b>Python Assignments</b>
-  - [PythonAssignments](https://github.com/marinaperdi/Python)
+- <b>Java Programs</b>
+  - [JavaPrograms](https://github.com/marinaperdi/Java)
 - <b>C Programs</b>
   - [CPrograms](https://github.com/marinaperdi/C-Programs)
+- <b>Python Assignments</b>
+  - [PythonAssignments](https://github.com/marinaperdi/Python)
 
 <h2> 🤳 Connect with me:</h2>
 
