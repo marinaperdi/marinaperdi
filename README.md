@@ -12,6 +12,8 @@
   - [CPrograms](https://github.com/marinaperdi/C-Programs)
 - <b>Python Assignments</b>
   - [PythonAssignments](https://github.com/marinaperdi/Python)
+- <b>SQL Project</b>
+  - [SQLProject](https://github.com/marinaperdi/SQLProject)
 
 <h2> 🤳 Connect with me:</h2>
 
