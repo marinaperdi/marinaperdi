@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Large project</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+    <div class="header">
+        <img src="images/logo.png"
+                srcset="images/logo_small.png 200w, images/logo.png 700w, images/logo.png 1084w" 
+                sizes="(max-width: 500px) 200px, (max-width: 800px) 500px, 1084px"
+            alt="logo" /> 
+        <p>WildWonder Zoo</p>
+    </div>
+
+    <div class="navigation">
+        <a class="nav-link" href="index.html">Home</a>
+        <a class="nav-link" href="events.html">Special events</a>
+        <a class="nav-link" href="map.html">Map</a>
+        <a class="nav-link" href="catalog.html">Catalog</a>
+        <a class="nav-link" href="WildBiteCafe.html">WildBite Café</a>
+        <a class="nav-link" href="PizzaPaws.html">Pizza Paws</a>
+        <a class="nav-link" href="AfricaWorld.html">Africa World</a>
+        <a class="nav-link" href="PolarWorld.html">Polar World</a>
+    </div>
+
+    <div class="map"><img src="images/map.jpeg"
+        srcset="images/map_small.jpeg 350w, images/map.jpeg 735w, images/map.jpeg 735w" 
+                sizes="(max-width: 500px) 350px, (max-width: 800px) 735px, 735px"
+        alt="zoo map" usemap="#map">
+
+        <map name="map">
+            <area shape="rect" coords="200,105,565,225" alt="AfricaWorld" href="AfricaWorld.html">
+            <area shape="rect" coords="130,230,280,300" alt="WildBiteCafe" href="WildBiteCafe.html">
+            <area shape="rect" coords="455,360,630,430" alt="PolarWorld" href="PolarWorld.html">
+            <area shape="rect" coords="425,425,500,465" alt="PizzaPaws" href="PizzaPaws.html">
+          </map>
+
+    </div>
+
+<footer>
+<div class="contact"> 
+    <p>Phone: (555) 123-4567 </p>
+    <p>Email: info@wildwonderzoo.com </p>
+</div>
+
+<ul class="priceList"> 
+    <li>Adults (ages 13+): $25.00</li> 
+    <li>Children (ages 3-12): $15.00</li> 
+    <li>Seniors (ages 65+): $20.00</li> 
+    <li>Children under 3: Free</li> 
+</ul>
+
+</footer>
+
+</body>
+
+</html>
