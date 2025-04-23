@@ -1,12 +1,20 @@
-**👋 Hi, I’m Marina Perdiguero**
-- 👀 I’m interested in cybersecurity, software development, and building systems that solve real-world problems
-- 🌱 I’m currently learning cybersecurity, data science and full-stack development
-- 💞️ I’m looking to collaborate on open-source projects related to security tools, web apps, or anything that helps people work smarter
-- 📫 How to reach me www.linkedin.com/in/marina-perdiguero-6796a0226
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I’m a student-athlete on the Women’s Basketball Team at Park University and a tutor at the Academic Support Center – I love balancing brains and brawn!
+<h1>Hi, I'm Marina! <br/><a href="https://github.com/joshmadakor1">Programmer</a>
 
-<!---
-marinaperdi/marinaperdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
+
+
