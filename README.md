@@ -3,9 +3,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Zoo WebSite</b>
-  - [ZooWebSite](https://github.com/marinaperdi/Zoo-WebPage)
+  - [ZooWebSite](https://github.com/marinaperdi/ZooWebSite)
 - <b>Python Assignments</b>
-  - [ZooWebSite](https://github.com/marinaperdi/Zoo-WebPage)
+  - [PythonAssignments](https://github.com/marinaperdi/Python)
 
 <h2> 🤳 Connect with me:</h2>
 
