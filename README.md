@@ -14,6 +14,8 @@
   - [PythonAssignments](https://github.com/marinaperdi/Python)
 - <b>SQL Project</b>
   - [SQLProject](https://github.com/marinaperdi/SQLProject)
+- <b>Too Much Paper - Digital Claims System</b>
+  - [Too Much Paper - Digital Claims System]([https://github.com/marinaperdi/SQLProject](https://github.com/marinaperdi/TooMuchPaper-DigitalClaimsSystem))
 
 <h2> 🤳 Connect with me:</h2>
 
