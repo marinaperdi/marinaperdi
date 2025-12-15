@@ -7,7 +7,7 @@
 - <b>VVCC WebSite</b>
   - [VVCCWebSite](https://github.com/marinaperdi/JavaScriptWebsite)
 - <b>PHP Projects</b>
-  - [JavaScriptWebsite](https://github.com/marinaperdi/PHP-Projects))
+  - [PHPProjects](https://github.com/marinaperdi/PHP-Projects)
 - <b>ACM2025-Halloween-Game</b>
   - [ACM2025-Halloween-Game](https://github.com/marinaperdi/ACM2025-Halloween-Game)
 - <b>Java Programs</b>
